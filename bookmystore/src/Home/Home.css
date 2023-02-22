@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.box{
+    height: 15rem;
+    width: 18%;
+    flex-wrap: wrap;
+    border: 1px solid yellowgreen;
+}
